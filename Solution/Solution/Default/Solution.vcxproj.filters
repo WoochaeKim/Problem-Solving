@@ -2,20 +2,23 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="00. code.plus">
-      <UniqueIdentifier>{ab81eaca-3260-424a-bac0-a338172cfd94}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00. code.plus\00. 알고리즘 기초">
-      <UniqueIdentifier>{b691562a-4243-4c29-981b-fd942bea8aa9}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작">
-      <UniqueIdentifier>{e583d6be-e094-4a3d-8349-672377612885}</UniqueIdentifier>
+      <UniqueIdentifier>{bc2291cd-17c9-4faf-859e-be04bbb601e9}</UniqueIdentifier>
     </Filter>
     <Filter Include="01. solved.ac">
-      <UniqueIdentifier>{5466fae0-cb52-49da-b531-1babd00396b5}</UniqueIdentifier>
+      <UniqueIdentifier>{e43c8047-43b6-478b-bd84-cf8a20975f00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. code.plus\00. 알고리즘 기초">
+      <UniqueIdentifier>{762ac039-914f-4547-b37d-d1f0fb8e0608}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작">
+      <UniqueIdentifier>{cc51d8cb-098c-4862-9dba-2843921cb329}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Baekjoon_Online_Judge\00_1000_A+B.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01_2558_A+B - 2.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
   </ItemGroup>
