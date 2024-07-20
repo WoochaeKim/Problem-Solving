@@ -84,7 +84,10 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\03_연습\01_10799_쇠막대기.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\03_연습\01_17298_오큰수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\03_연습\02_17298_오큰수.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\03_연습\03_17299_오등큰수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
     </ClCompile>
   </ItemGroup>
