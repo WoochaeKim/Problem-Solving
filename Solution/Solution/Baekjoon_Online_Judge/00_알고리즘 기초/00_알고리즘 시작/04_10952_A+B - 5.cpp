@@ -9,7 +9,7 @@ int main()
     cout.tie(nullptr);
 
     int iNumA, iNumB;
-
+    
     while (true)
     {
         cin >> iNumA >> iNumB;  

@@ -9,7 +9,7 @@ int main()
     cout.tie(nullptr);
 
     int iNumT, iNumA, iNumB;
-
+    
     cin >> iNumT;
 
     for (int iIdxT = 1; iIdxT <= iNumT; iIdxT++)

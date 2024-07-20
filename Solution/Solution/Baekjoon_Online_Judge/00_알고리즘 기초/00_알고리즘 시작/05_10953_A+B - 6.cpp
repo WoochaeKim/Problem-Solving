@@ -10,7 +10,7 @@ int main()
 
     int iNumT, iNumA, iNumB;
     char chComma;
-
+    
     cin >> iNumT;
 
     while (iNumT--)

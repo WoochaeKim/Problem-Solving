@@ -14,7 +14,7 @@ public:
     {
         m_arrStackData[++m_iTapIndex] = _iInputData;
     }
-
+    
     int pop()
     {
         return (empty()) ? -1 : m_arrStackData[m_iTapIndex--];
