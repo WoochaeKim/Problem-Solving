@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\03_1874_\uC2A4\uD0DD \uC218\uC5F4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\03_1874_\uC2A4\uD0DD \uC218\uC5F4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\02_9012_\uAD04\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\02_9012_\uAD04\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "03_1874_\uC2A4\uD0DD \uC218\uC5F4.cpp",
+              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\03_1874_\uC2A4\uD0DD \uC218\uC5F4.cpp",
+              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\03_1874_\uC2A4\uD0DD \uC218\uC5F4.cpp",
+              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\03_1874_\uC2A4\uD0DD \uC218\uC5F4.cpp",
+              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\03_1874_\uC2A4\uD0DD \uC218\uC5F4.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T11:12:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "02_9012_\uAD04\uD638.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\02_9012_\uAD04\uD638.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\02_9012_\uAD04\uD638.cpp",
               "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\02_9012_\uAD04\uD638.cpp",
               "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\00_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\02_9012_\uAD04\uD638.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-20T11:11:32.115Z",
               "EditorCaption": ""
