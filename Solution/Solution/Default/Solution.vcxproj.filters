@@ -57,5 +57,11 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\00_스택\00_10828_스택.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\00_스택\01_9093_단어 뒤집기.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\00_스택\02_9012_괄호.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
