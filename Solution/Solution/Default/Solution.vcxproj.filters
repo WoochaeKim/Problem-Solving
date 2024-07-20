@@ -72,5 +72,17 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\01_큐\00_10845_큐.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\01. 큐</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\01_큐\01_1158_요세푸스 문제.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\01. 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\02_덱\00_10866_덱.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\02. 덱</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\03_연습\00_17413_단어 뒤집기 2.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\03_연습\01_10799_쇠막대기.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
