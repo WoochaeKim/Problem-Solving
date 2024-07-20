@@ -24,5 +24,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\02_10950_A+B - 3.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\03_10951_A+B - 4.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
