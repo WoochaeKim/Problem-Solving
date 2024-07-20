@@ -30,31 +30,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_1000_A+B.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\00_1000_A+B.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01_2558_A+B - 2.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\01_2558_A+B - 2.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\02_10950_A+B - 3.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\02_10950_A+B - 3.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\03_10951_A+B - 4.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\03_10951_A+B - 4.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\04_10952_A+B - 5.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\04_10952_A+B - 5.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\05_10953_A+B - 6.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\05_10953_A+B - 6.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\06_11021_A+B - 7.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\06_11021_A+B - 7.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\07_11022_A+B - 8.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\07_11022_A+B - 8.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_10828_스택.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\00_스택\00_10828_스택.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
     </ClCompile>
   </ItemGroup>
