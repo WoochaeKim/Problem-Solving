@@ -96,5 +96,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\04_참고\00_1935_후위 표기식2.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_자료구조 1\04_참고\02_10808_알파벳 개수.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
