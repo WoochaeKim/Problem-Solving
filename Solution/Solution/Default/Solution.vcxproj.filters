@@ -123,5 +123,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\07_10824_네 수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\01_2609_최대공약수와 최소공배수.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
