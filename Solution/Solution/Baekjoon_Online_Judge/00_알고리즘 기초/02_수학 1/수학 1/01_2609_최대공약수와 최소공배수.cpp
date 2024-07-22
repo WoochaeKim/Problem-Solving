@@ -2,12 +2,12 @@
 
 using namespace std;
 
-int GCD(int _iNumA, int _iNumB)
+int GetGCD(int _iNumA, int _iNumB)
 {
 	if (0 == _iNumB)
 		return _iNumA;
 
-	return GCD(_iNumB, _iNumA % _iNumB);
+	return GetGCD(_iNumB, _iNumA % _iNumB);
 }
 
 int main()
@@ -20,7 +20,7 @@ int main()
 
 	cin >> iNumA >> iNumB;
 
-	iGCD = GCD(iNumB, iNumA % iNumB);
+	iGCD = GetGCD(iNumB, iNumA % iNumB);
 
 	cout << iGCD << '\n' << (iNumA * iNumB) / iGCD;
 
