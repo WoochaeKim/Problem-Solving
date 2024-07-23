@@ -37,117 +37,144 @@
     <Filter Include="00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고">
       <UniqueIdentifier>{c70a1a1f-153e-4467-bbe6-669d94103dae}</UniqueIdentifier>
     </Filter>
+    <Filter Include="01. solved.ac\00. 새싹">
+      <UniqueIdentifier>{3b9e3c56-d8bb-438d-b33b-70d02d03677f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. solved.ac\00. 새싹\00. 출력">
+      <UniqueIdentifier>{d5f62df5-aa08-46ed-ac52-9ba78c2d46fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. solved.ac\00. 새싹\01. 입력과 계산">
+      <UniqueIdentifier>{c79ddf67-605d-44b0-88ee-51682aaec04c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. solved.ac\00. 새싹\02. 조건">
+      <UniqueIdentifier>{d9a96f49-eb74-4dd8-813a-2d8f1308a547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. solved.ac\00. 새싹\03. 반복">
+      <UniqueIdentifier>{54499224-669a-4363-8de9-56a872dff130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. solved.ac\00. 새싹\04. 빠른 입출력">
+      <UniqueIdentifier>{4da36826-d548-428f-9106-156c5be875c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. solved.ac\00. 새싹\05. 배열">
+      <UniqueIdentifier>{f58d5864-143d-45aa-992c-7b5daac010b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. solved.ac\00. 새싹\06. 문자열">
+      <UniqueIdentifier>{143a49d6-a7af-4c98-9a0c-cc2ea64815df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. solved.ac\00. 새싹\07. 함수">
+      <UniqueIdentifier>{1b519610-e953-47b0-ad41-05afb8f8e44f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\00_1000_A+B.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\00_1000_A+B.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\01_2558_A+B - 2.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\01_2558_A+B - 2.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\02_10950_A+B - 3.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\02_10950_A+B - 3.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\03_10951_A+B - 4.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\03_10951_A+B - 4.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\04_10952_A+B - 5.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\04_10952_A+B - 5.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\05_10953_A+B - 6.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\05_10953_A+B - 6.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\06_11021_A+B - 7.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\06_11021_A+B - 7.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\00_알고리즘 시작\07_11022_A+B - 8.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\07_11022_A+B - 8.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\00. 알고리즘 시작</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\00_10430_나머지.cpp">
-      <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\00_스택\00_10828_스택.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\00_스택\00_10828_스택.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\00_스택\01_9093_단어 뒤집기.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\00_스택\01_9093_단어 뒤집기.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\00_스택\02_9012_괄호.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\00_스택\02_9012_괄호.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\00_스택\03_1874_스택 수열.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\00_스택\03_1874_스택 수열.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\00_스택\04_1406_에디터.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\00_스택\04_1406_에디터.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\00. 스택</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\01_큐\00_10845_큐.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\01_큐\00_10845_큐.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\01. 큐</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\01_큐\01_1158_요세푸스 문제.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\01_큐\01_1158_요세푸스 문제.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\01. 큐</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\02_덱\00_10866_덱.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\02_덱\00_10866_덱.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\02. 덱</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\03_연습\00_17413_단어 뒤집기 2.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\03_연습\00_17413_단어 뒤집기 2.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\03_연습\01_10799_쇠막대기.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\03_연습\01_10799_쇠막대기.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\03_연습\02_17298_오큰수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\03_연습\02_17298_오큰수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\03_연습\03_17299_오등큰수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\03_연습\03_17299_오등큰수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\03. 연습</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\00_1935_후위 표기식2.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\00_1935_후위 표기식2.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\02_10808_알파벳 개수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\02_10808_알파벳 개수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\03_10809_알파벳 찾기.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\03_10809_알파벳 찾기.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\04_10820_문자열 분석.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\04_10820_문자열 분석.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\05_2743_단어 길이 재기.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\05_2743_단어 길이 재기.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\06_11655_ROT13.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\06_11655_ROT13.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\07_10824_네 수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\07_10824_네 수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\01_2609_최대공약수와 최소공배수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\08_11656_접미사 배열.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\00_10430_나머지.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\02_1934_최소공배수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\01_2609_최대공약수와 최소공배수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\03_1978_소수 찾기.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\02_1934_최소공배수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\04_1929_소수 구하기.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\03_1978_소수 찾기.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\01_자료구조 1\04_참고\08_11656_접미사 배열.cpp">
-      <Filter>00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\05_6588_골드바흐의 추측.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\04_1929_소수 구하기.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\06_10872_팩토리얼.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\05_6588_골드바흐의 추측.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\07_1676_팩토리얼 0의 개수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\06_10872_팩토리얼.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00_알고리즘 기초\02_수학 1\수학 1\08_2004_조합 0의 개수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\07_1676_팩토리얼 0의 개수.cpp">
+      <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\08_2004_조합 0의 개수.cpp">
       <Filter>00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
   </ItemGroup>
