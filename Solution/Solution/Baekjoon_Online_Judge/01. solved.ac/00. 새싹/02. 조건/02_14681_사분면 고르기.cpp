@@ -24,5 +24,6 @@ int main()
 		else
 			cout << 4;
 	}
+
 	return 0;
 }
