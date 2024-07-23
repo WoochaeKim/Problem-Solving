@@ -195,5 +195,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\04_10172_개.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\05_25083_새싹.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
