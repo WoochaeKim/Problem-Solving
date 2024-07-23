@@ -1,5 +1,7 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <ctime>
+#include <iomanip>
 
 using namespace std;
 
@@ -10,10 +12,11 @@ int main()
 	cout.tie(nullptr);
 
 	time_t tCurTime = time(nullptr);
-	tm tmCurTime{};
-	localtime_s(&tmCurTime, &tCurTime);
+	tm* pCurTime{ localtime(&tCurTime) };
 
-	cout << tmCurTime.tm_year + 1900 << '-' << tmCurTime.tm_mon + 1 << '-' << tmCurTime.tm_mday;
+	cout << (*pCurTime).tm_year + 1900 << '-' 
+		<< setw(2) << setfill('0') << (*pCurTime).tm_mon + 1 << '-' 
+		<< setw(2) << setfill('0') << (*pCurTime).tm_mday;
 
 	return 0;
 }
