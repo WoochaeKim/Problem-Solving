@@ -19,11 +19,11 @@ int main()
 	while (iLoop--)
 	{
 		cin >> iInput;
-		arrBuff[((0 > iInput) ? (iInput * -1) * 2 : iInput)] += 1;
+		arrBuff[((0 > iInput) ? (iInput * -1) + (LIMIT_IDX / 2) : iInput)] += 1;
 	}
 
 	cin >> iTarget;
-	cout << (arrBuff[((0 > iTarget) ? (iTarget * -1) * 2 : iTarget)]);
+	cout << (arrBuff[((0 > iTarget) ? (iTarget * -1) + (LIMIT_IDX / 2) : iTarget)]);
 
 	return 0;
 }
