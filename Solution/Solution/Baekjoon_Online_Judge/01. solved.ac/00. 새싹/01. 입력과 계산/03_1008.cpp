@@ -12,7 +12,7 @@ int main()
 	int iInputA, iInputB;
 
 	cin >> iInputA >> iInputB;
-	cout << fixed << setprecision(9) << static_cast<double>(iInputA) / static_cast<double>(iInputB);
+	cout << fixed << setprecision(10) << static_cast<double>(iInputA) / static_cast<double>(iInputB);
 
 	return 0;
 }
