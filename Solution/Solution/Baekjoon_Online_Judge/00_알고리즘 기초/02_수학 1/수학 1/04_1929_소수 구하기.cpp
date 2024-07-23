@@ -23,8 +23,8 @@ int main()
 		{
 			if (iLower <= iIdxChkPrime)
 				vecBuffPrime.push_back(iIdxChkPrime);
-			for (int iMultiple = iIdxChkPrime + iIdxChkPrime; iMultiple <= iUpper; iMultiple += iIdxChkPrime)
-				vecChkPrime[iMultiple] = false;
+			for (int iIdxMult = iIdxChkPrime + iIdxChkPrime; iIdxMult <= iUpper; iIdxMult += iIdxChkPrime)
+				vecChkPrime[iIdxMult] = false;
 		}
 	}
 
