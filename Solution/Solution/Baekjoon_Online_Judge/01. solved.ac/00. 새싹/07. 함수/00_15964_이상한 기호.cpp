@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int DifferenceOfSquares(const int& _iLeft, const int& _iRight)
+long long DifferenceOfSquares(const long long& _iLeft, const long long& _iRight)
 {
 	return (_iLeft + _iRight) * (_iLeft - _iRight);
 }
@@ -13,11 +13,11 @@ int main()
 	cin.tie(nullptr);
 	cout.tie(nullptr);
 
-	int iInputA, iInputB;
+	long long llInputA, llInputB;
 
-	cin >> iInputA >> iInputB;
+	cin >> llInputA >> llInputB;
 
-	cout << DifferenceOfSquares(iInputA, iInputB);
+	cout << DifferenceOfSquares(llInputA, llInputB);
 
 	return 0;
 }
