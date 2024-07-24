@@ -40,6 +40,9 @@
     <Filter Include="00. Baekjoon_Online_Judge\01. solved.ac">
       <UniqueIdentifier>{e43c8047-43b6-478b-bd84-cf8a20975f00}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1">
+      <UniqueIdentifier>{b77f3095-fb89-4a10-b48d-3a91023a0054}</UniqueIdentifier>
+    </Filter>
     <Filter Include="00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹">
       <UniqueIdentifier>{3b9e3c56-d8bb-438d-b33b-70d02d03677f}</UniqueIdentifier>
     </Filter>
@@ -66,9 +69,6 @@
     </Filter>
     <Filter Include="00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수">
       <UniqueIdentifier>{1b519610-e953-47b0-ad41-05afb8f8e44f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1">
-      <UniqueIdentifier>{b77f3095-fb89-4a10-b48d-3a91023a0054}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -286,6 +286,9 @@
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\02_31403_A + B - C.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\03_2562_A + B - C.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
     </ClCompile>
   </ItemGroup>
