@@ -279,7 +279,10 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수\01_2475_검증수.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\09_2439_별 찍기 - 2.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\00_2439_별 찍기 - 2.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\01_11720_숫자의 합.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
     </ClCompile>
   </ItemGroup>
