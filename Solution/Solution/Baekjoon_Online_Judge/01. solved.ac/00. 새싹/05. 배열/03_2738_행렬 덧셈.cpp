@@ -24,14 +24,13 @@ int main()
 		}
 	}
 
-	int iCntCol = iCol;
-	for (const auto& iElem : vecMatrix)
+	for (int iCntRow = 0; iCntRow < iRow; iCntRow++)
 	{
-		if (0 == iCntCol)
+		for (int iCntCol = 0; iCntCol < iCol; iCntCol++)
 		{
-			iCntCol = iCol
+			cout << vecMatrix[iCntRow * iCol + iCntCol] << ' ';
 		}
-		cout << iElem;
+		cout << '\n';
 	}
 
 	return 0;
