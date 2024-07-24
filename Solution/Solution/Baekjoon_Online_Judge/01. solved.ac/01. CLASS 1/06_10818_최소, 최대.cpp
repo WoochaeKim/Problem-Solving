@@ -18,14 +18,11 @@ int main()
 	while (iTestCase--)
 	{
 		cin >> iInput;
-		if (iMin > iInput)
-			iMin = iInput;
-
-		if (iMax < iInput)
-			iMax = iInput;
+		iMin = (iMin > iInput) ? iInput : iMin;
+		iMax = (iMax < iInput) ? iInput : iMax;
 	}
 
-	cout << iMin << iMax;
+	cout << iMin << ' ' << iMax;
 
 	return 0;
 }
