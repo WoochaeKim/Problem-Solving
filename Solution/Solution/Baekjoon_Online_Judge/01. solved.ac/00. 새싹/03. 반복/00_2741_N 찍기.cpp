@@ -12,8 +12,8 @@ int main()
 
 	cin >> iInputN;
 
-	for (int iidx = 1; iidx <= iInputN; iidx++)
-		cout << iidx << '\n';
+	for (int iIdx = 1; iIdx <= iInputN; iIdx++)
+		cout << iIdx << '\n';
 
 	return 0;
 }
