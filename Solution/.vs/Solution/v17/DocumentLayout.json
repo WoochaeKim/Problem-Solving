@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\11_3052_\uB098\uBA38\uC9C0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\11_3052_\uB098\uBA38\uC9C0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\10_2920_\uC74C\uACC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\10_2920_\uC74C\uACC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\11_3052_\uB098\uBA38\uC9C0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\11_3052_\uB098\uBA38\uC9C0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\08_2577_\uC22B\uC790\uC758 \uAC1C\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -70,12 +74,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\\uC18C\uC2A4.cpp*",
+              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\\uC18C\uC2A4.cpp*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T17:20:07.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "11_3052_\uB098\uBA38\uC9C0.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\11_3052_\uB098\uBA38\uC9C0.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\11_3052_\uB098\uBA38\uC9C0.cpp",
               "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\11_3052_\uB098\uBA38\uC9C0.cpp",
               "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\11_3052_\uB098\uBA38\uC9C0.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-24T16:50:06.64Z",
               "EditorCaption": ""
@@ -88,14 +105,14 @@
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\10_2920_\uC74C\uACC4.cpp",
               "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\10_2920_\uC74C\uACC4.cpp",
               "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\10_2920_\uC74C\uACC4.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-24T16:16:47.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "09_2675_\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\09_2675_\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\09_2675_\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
@@ -108,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "array",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\array",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\array",
@@ -121,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "08_2577_\uC22B\uC790\uC758 \uAC1C\uC218.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\08_2577_\uC22B\uC790\uC758 \uAC1C\uC218.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\08_2577_\uC22B\uC790\uC758 \uAC1C\uC218.cpp",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "07_1152_\uB2E8\uC5B4\uC758 \uAC1C\uC218.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\07_1152_\uB2E8\uC5B4\uC758 \uAC1C\uC218.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\07_1152_\uB2E8\uC5B4\uC758 \uAC1C\uC218.cpp",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "06_10818_\uCD5C\uC18C, \uCD5C\uB300.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\06_10818_\uCD5C\uC18C, \uCD5C\uB300.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\06_10818_\uCD5C\uC18C, \uCD5C\uB300.cpp",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "05_10250_ACM \uD638\uD154.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\05_10250_ACM \uD638\uD154.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\05_10250_ACM \uD638\uD154.cpp",
@@ -173,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "04_2884_\uC54C\uB78C \uC2DC\uACC4.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\04_2884_\uC54C\uB78C \uC2DC\uACC4.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\04_2884_\uC54C\uB78C \uC2DC\uACC4.cpp",
@@ -186,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "03_2562_\uCD5C\uB313\uAC12.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\03_2562_\uCD5C\uB313\uAC12.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\03_2562_\uCD5C\uB313\uAC12.cpp",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "02_31403_A \u002B B - C.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\02_31403_A \u002B B - C.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\02_31403_A \u002B B - C.cpp",
@@ -212,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "01_11720_\uC22B\uC790\uC758 \uD569.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\01_11720_\uC22B\uC790\uC758 \uD569.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\01_11720_\uC22B\uC790\uC758 \uD569.cpp",
@@ -225,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "00_2439_\uBCC4 \uCC0D\uAE30 - 2.cpp",
               "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\00_2439_\uBCC4 \uCC0D\uAE30 - 2.cpp",
               "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\01. solved.ac\\01. CLASS 1\\00_2439_\uBCC4 \uCC0D\uAE30 - 2.cpp",

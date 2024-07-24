@@ -315,5 +315,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\11_3052_나머지.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\소스.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
