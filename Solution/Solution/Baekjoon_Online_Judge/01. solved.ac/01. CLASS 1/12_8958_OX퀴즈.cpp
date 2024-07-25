@@ -22,7 +22,7 @@ int main()
 
 		for (const auto& chElem : strInput)
 		{
-			iPartSum = (('O' == chElem) ? iPartSum += 1 : 0);
+			iPartSum = (('O' == chElem) ? (iPartSum += 1) : 0);
 			iSum += iPartSum;
 		}
 
