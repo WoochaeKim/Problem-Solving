@@ -17,18 +17,19 @@ int main()
 	cin.tie(nullptr);
 	cout.tie(nullptr);
 
-	int iInput, iOutTestCase{};
+	int iInput, iTestCase{};
 
-	cin >> iOutTestCase;
+	cin >> iTestCase;
 
-	while (iOutTestCase--)
+	while (iTestCase--)
 	{
-		int iInTestCase, iSum{};
+		int iNumElements{};
+		long long llSum{};
 		vector<int> vecDigitBuff{};
 
-		cin >> iInTestCase;
+		cin >> iNumElements;
 
-		while (iInTestCase--)
+		while (iNumElements--)
 		{
 			cin >> iInput;
 			vecDigitBuff.emplace_back(iInput);
@@ -36,15 +37,15 @@ int main()
 
 		int iLastIdx{ static_cast<int>(vecDigitBuff.size() - 1) };
 		
-		for (int iIdxOutLoop = 0; iIdxOutLoop < iLastIdx; iIdxOutLoop++)
+		for (int iPivotIdx = 0; iPivotIdx < iLastIdx; iPivotIdx++)
 		{
-			for (int iIdxInLoop = iIdxOutLoop; iIdxInLoop < iLastIdx; iIdxInLoop++)
+			for (int iOffsetIdx = iPivotIdx; iOffsetIdx < iLastIdx; iOffsetIdx++)
 			{
-				iSum += GetGCD(vecDigitBuff[iIdxOutLoop], vecDigitBuff[iIdxInLoop + 1]);
+				llSum += GetGCD(vecDigitBuff[iPivotIdx], vecDigitBuff[iOffsetIdx + 1]);
 			}
 		}
 
-		cout << iSum << '\n';
+		cout << llSum << '\n';
 	}
 
 	return 0;

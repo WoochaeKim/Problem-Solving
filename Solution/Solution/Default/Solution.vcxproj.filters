@@ -324,5 +324,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\연습\00_9613_GCD 합.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\연습\01_17087_숨바꼭질 6.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
