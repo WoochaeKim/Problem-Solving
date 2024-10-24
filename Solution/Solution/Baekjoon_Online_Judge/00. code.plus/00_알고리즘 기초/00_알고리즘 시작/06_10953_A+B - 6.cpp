@@ -11,7 +11,6 @@ int main()
 	int iNumTestCase, iNumInputA, iNumInputB;
 	char chComa;
 
-
 	cin >> iNumTestCase;
 
 	while (iNumTestCase--)
