@@ -18,6 +18,5 @@ int main()
 		cout << iNumInputA + iNumInputB << '\n';
 	}
 
-
 	return 0;
 }
