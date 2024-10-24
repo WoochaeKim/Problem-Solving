@@ -9,4 +9,6 @@ int main()
 	cout.tie(nullptr);
 
 	cout << "Hello World!";
+
+	return 0;
 }
