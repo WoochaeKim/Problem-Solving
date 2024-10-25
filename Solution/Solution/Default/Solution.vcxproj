@@ -51,7 +51,10 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\08_11022_A+B - 8.cpp" />
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\08_11022_A+B - 8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\00_스택\00_10828_스택.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
