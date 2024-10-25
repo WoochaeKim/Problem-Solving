@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 class CMyStack
 {
 public:
