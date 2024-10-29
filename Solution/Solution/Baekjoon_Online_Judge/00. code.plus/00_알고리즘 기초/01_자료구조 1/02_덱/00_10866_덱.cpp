@@ -49,8 +49,6 @@ public:
 	{
 		return (m_iIdxRear == m_iIdxFront) ? 1 : 0;
 	}
-
-
 	int front()
 	{
 		if (empty())

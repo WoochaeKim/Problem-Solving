@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\02_\uB371\\00_10866_\uB371.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\02_\uB371\\00_10866_\uB371.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\00_10828_\uC2A4\uD0DD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\00_10828_\uC2A4\uD0DD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\00_10845_\uD050.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\00_10845_\uD050.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\01_1158_\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\01_1158_\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\03_\uC5F0\uC2B5\\00_17413_\uB2E8\uC5B4 \uB4A4\uC9D1\uAE30 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\03_\uC5F0\uC2B5\\00_17413_\uB2E8\uC5B4 \uB4A4\uC9D1\uAE30 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 4732,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "00_10828_\uC2A4\uD0DD.cpp",
-              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\00_10828_\uC2A4\uD0DD.cpp",
-              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\00_10828_\uC2A4\uD0DD.cpp",
-              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\00_10828_\uC2A4\uD0DD.cpp",
-              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\00_\uC2A4\uD0DD\\00_10828_\uC2A4\uD0DD.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-29T12:36:56.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "00_10866_\uB371.cpp",
-              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\02_\uB371\\00_10866_\uB371.cpp",
-              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\02_\uB371\\00_10866_\uB371.cpp",
-              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\02_\uB371\\00_10866_\uB371.cpp",
-              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\02_\uB371\\00_10866_\uB371.cpp",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAwwFwAAAAAAAAA",
+              "Title": "00_17413_\uB2E8\uC5B4 \uB4A4\uC9D1\uAE30 2.cpp",
+              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\03_\uC5F0\uC2B5\\00_17413_\uB2E8\uC5B4 \uB4A4\uC9D1\uAE30 2.cpp",
+              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\03_\uC5F0\uC2B5\\00_17413_\uB2E8\uC5B4 \uB4A4\uC9D1\uAE30 2.cpp",
+              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\03_\uC5F0\uC2B5\\00_17413_\uB2E8\uC5B4 \uB4A4\uC9D1\uAE30 2.cpp",
+              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\03_\uC5F0\uC2B5\\00_17413_\uB2E8\uC5B4 \uB4A4\uC9D1\uAE30 2.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-29T12:26:00.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "01_1158_\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
-              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\01_1158_\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
-              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\01_1158_\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
-              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\01_1158_\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
-              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\01_1158_\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-29T11:50:27.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "00_10845_\uD050.cpp",
-              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\00_10845_\uD050.cpp",
-              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\00_10845_\uD050.cpp",
-              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\00_10845_\uD050.cpp",
-              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\01_\uC790\uB8CC\uAD6C\uC870 1\\01_\uD050\\00_10845_\uD050.cpp",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAwwFkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-29T11:48:31.025Z",
+              "WhenOpened": "2024-10-29T14:33:51.494Z",
               "EditorCaption": ""
             }
           ]
