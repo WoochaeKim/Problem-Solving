@@ -87,7 +87,11 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\03_연습\00_17413_단어 뒤집기 2.cpp" />
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\03_연습\00_17413_단어 뒤집기 2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\03_연습\01_10799_쇠막대기.cpp" />
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\00_1935_후위 표기식2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>

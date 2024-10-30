@@ -41,9 +41,7 @@ int main()
 		else 
 		{
 			if (bIsTag)
-			{
 				cout << ch;
-			}
 			else
 			{
 				if (' ' == ch)
