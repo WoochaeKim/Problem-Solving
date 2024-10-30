@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void TopAndPop(stack<float>& _stkBuff, float& _fOperand)
+void TopAndPop(stack<double>& _stkBuff, double& _fOperand)
 {
 	if (!_stkBuff.empty())
 	{
@@ -14,9 +14,9 @@ void TopAndPop(stack<float>& _stkBuff, float& _fOperand)
 	}
 }
 
-void ComputeStack(stack<float>& _stkBuff, const char& _chOperator)
+void ComputeStack(stack<double>& _stkBuff, const char& _chOperator)
 {
-	float fLHS{}, fRHS{};
+	double fLHS{}, fRHS{};
 	TopAndPop(_stkBuff, fRHS);
 	TopAndPop(_stkBuff, fLHS);
 
@@ -46,7 +46,7 @@ int main()
 	int iNumOperand{};
 	
 	string strInput{};
-	stack<float> stkBuff{};
+	stack<double> stkBuff{};
 	vector<int> vecBuff{};
 
 	cin >> iNumOperand >> strInput;
@@ -61,7 +61,7 @@ int main()
 		if ('+' == ch || '-' == ch || '*' == ch || '/' == ch)
 			ComputeStack(stkBuff, ch);
 		else
-			stkBuff.push(static_cast<float>(vecBuff[static_cast<int>(ch - 'A')]));
+			stkBuff.push(static_cast<double>(vecBuff[static_cast<int>(ch - 'A')]));
 	}
 	cout.precision(2);
 	cout << fixed << stkBuff.top();
