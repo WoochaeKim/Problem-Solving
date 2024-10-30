@@ -34,13 +34,7 @@ int main()
 			stkSeqIdxBuff.pop();
 		}
 	}
-	/*
-	while (!stkSeqIdxBuff.empty())
-	{
-		vecNGE[stkSeqIdxBuff.top()] = -1;
-		stkSeqIdxBuff.pop();
-	}
-	*/
+
 	for (const int& iNumNGE : vecNGE)
 		cout << iNumNGE << ' ';
 
