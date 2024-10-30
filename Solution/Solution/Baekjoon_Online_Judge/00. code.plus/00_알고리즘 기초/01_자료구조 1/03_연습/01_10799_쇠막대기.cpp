@@ -22,16 +22,16 @@ int main()
 	{
 		if ('(' == strInput[iCntIdx])
 			stkBuff.push(iCntIdx);
-		else // ')' == strInput[iCntIdx]
+		else
 		{
 			if (!stkBuff.empty())
 			{
-				if (1 == iCntIdx - stkBuff.top()) // 레이져
+				if (1 == iCntIdx - stkBuff.top())
 				{
 					stkBuff.pop();
 					iNumPiece += static_cast<int>(stkBuff.size());
 				}
-				else // 쇠막대기
+				else
 				{
 					stkBuff.pop();
 					iNumPiece += 1;
