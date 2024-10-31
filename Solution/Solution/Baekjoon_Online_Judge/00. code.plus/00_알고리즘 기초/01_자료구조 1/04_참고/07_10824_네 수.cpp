@@ -17,7 +17,7 @@ int main()
 	for (string& strNum : arrNumBuff)
 		cin >> strNum;
 
-	cout << stoi(arrNumBuff[NUM_A] + arrNumBuff[NUM_B]) + stoi(arrNumBuff[NUM_C] + arrNumBuff[NUM_D]);
+	cout << stoll(arrNumBuff[NUM_A] + arrNumBuff[NUM_B]) + stoll(arrNumBuff[NUM_C] + arrNumBuff[NUM_D]);
 
 	return 0;
 }
