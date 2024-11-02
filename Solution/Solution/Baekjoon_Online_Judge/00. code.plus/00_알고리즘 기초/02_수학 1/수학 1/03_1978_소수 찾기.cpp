@@ -17,7 +17,7 @@ int main()
 
 		cin >> iNumInput;
 
-		for (int iCntIdx = 2; iCntIdx * iCntIdx < iNumInput; ++iCntIdx)
+		for (int iCntIdx = 2; iCntIdx * iCntIdx <= iNumInput; ++iCntIdx)
 		{
 			if (0 == iNumInput % iCntIdx)
 			{
