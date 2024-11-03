@@ -321,5 +321,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\06_10872_팩토리얼.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\07_1676_팩토리얼 0의 개수.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
