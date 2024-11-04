@@ -18,12 +18,12 @@ int main()
 
 	for (int iCntIdx{}; iCntIdx < iStrSize; )
 	{
-		int iOctal{};
+		int iDigitOctal{};
 
 		for (int iCntBP{ 4 }; iCntBP > 0; iCntBP >>= 1)
-			iOctal += ('0' == strInput[iCntIdx++]) ? 0 : iCntBP;
+			iDigitOctal += ('0' == strInput[iCntIdx++]) ? 0 : iCntBP;
 
-		cout << iOctal;
+		cout << iDigitOctal;
 	}
 
 	return 0;
