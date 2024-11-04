@@ -27,23 +27,28 @@ int main()
 
 	while (iNumTestCase--)
 	{
-		int iNumElements{}, iSumGCD{};
-		cin >> iNumElements;
+		int iNumElements{}, iElementInput{};
+		long long llSumGCD{};
+		vector<int> vecBuff{};
 
-		vector<int> vecBuff(iNumElements);
+		cin >> iNumElements;
+		vecBuff.reserve(iNumElements);
 
 		for (int iCnt{}; iCnt < iNumElements; ++iCnt)
-			cin >> vecBuff[iCnt];
+		{
+			cin >> iElementInput;
+			vecBuff.emplace_back(iElementInput);
+		}
 
 		int iLastPivot{ iNumElements - 1 };
 
 		for (int iCntPivot{}; iCntPivot < iLastPivot; ++iCntPivot)
 		{
 			for (int iCntOffset{ iCntPivot + 1 }; iCntOffset < iNumElements; ++iCntOffset)
-				iSumGCD += GetGCD(vecBuff[iCntPivot], vecBuff[iCntOffset]);
+				llSumGCD += static_cast<long long>(GetGCD(vecBuff[iCntPivot], vecBuff[iCntOffset]));
 		}
 
-		cout << iSumGCD << '\n';
+		cout << llSumGCD << '\n';
 	}
 
 	return 0;
