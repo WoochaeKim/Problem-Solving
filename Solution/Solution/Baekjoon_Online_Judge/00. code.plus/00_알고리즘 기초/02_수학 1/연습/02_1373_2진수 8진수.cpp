@@ -18,12 +18,12 @@ int main()
 
 	for (int iCntIdx{}; iCntIdx < iStrSize; )
 	{
-		int iSum{};
+		int iOctal{};
 
-		for (int iCnt{ 4 }; iCnt > 0; iCnt >>= 1)
-			iSum += ('0' == strInput[iCntIdx++]) ? 0 : iCnt;
+		for (int iCntBP{ 4 }; iCntBP > 0; iCntBP >>= 1)
+			iOctal += ('0' == strInput[iCntIdx++]) ? 0 : iCntBP;
 
-		cout << iSum;
+		cout << iOctal;
 	}
 
 	return 0;
