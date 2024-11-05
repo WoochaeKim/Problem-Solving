@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <cmath>
 
 using namespace std;
 
@@ -9,7 +10,7 @@ int main()
 	cin.tie(nullptr);
 	cout.tie(nullptr);
 
-	int iNumInput{}, iBase{}, iSum{};
+	int iBase{}, iSum{};
 	string strInput{};
 
 	cin >> strInput >> iBase;
