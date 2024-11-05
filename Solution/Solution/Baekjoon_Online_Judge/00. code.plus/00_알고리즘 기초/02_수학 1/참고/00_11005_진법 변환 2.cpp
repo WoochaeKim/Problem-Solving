@@ -8,7 +8,7 @@ int main()
 	cin.tie(nullptr);
 	cout.tie(nullptr);
 
-	int iNumInput{}, iBase{}, iNumOutput{};
+	int iNumInput{}, iNumOutput{}, iBase{};
 	stack<int> stkBuff{};
 
 	cin >> iNumInput >> iBase;
