@@ -357,5 +357,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\참고\02_11576_Base Conversion.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\참고\03_11653_소인수분해.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
