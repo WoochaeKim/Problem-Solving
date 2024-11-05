@@ -3,15 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\02_11727_2\u00D7n \uD0C0\uC77C\uB9C1 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\02_11727_2\u00D7n \uD0C0\uC77C\uB9C1 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\01_11726_2\u00D7n \uD0C0\uC77C\uB9C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\01_11726_2\u00D7n \uD0C0\uC77C\uB9C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\03_9095_1, 2, 3 \uB354\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7638C15-82A0-49BE-B3FA-7414B00851A2}|Solution\\Default\\Solution.vcxproj|solutionrelative:Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\03_9095_1, 2, 3 \uB354\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 4732,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "vector",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
-              "ViewState": "AQIAAFYHAAAAAAAAAAAQwGAHAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-05T14:51:37.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "01_11726_2\u00D7n \uD0C0\uC77C\uB9C1.cpp",
-              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\01_11726_2\u00D7n \uD0C0\uC77C\uB9C1.cpp",
-              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\01_11726_2\u00D7n \uD0C0\uC77C\uB9C1.cpp",
-              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\01_11726_2\u00D7n \uD0C0\uC77C\uB9C1.cpp",
-              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\01_11726_2\u00D7n \uD0C0\uC77C\uB9C1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-05T14:30:59.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "02_11727_2\u00D7n \uD0C0\uC77C\uB9C1 2.cpp",
-              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\02_11727_2\u00D7n \uD0C0\uC77C\uB9C1 2.cpp",
-              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\02_11727_2\u00D7n \uD0C0\uC77C\uB9C1 2.cpp",
-              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\02_11727_2\u00D7n \uD0C0\uC77C\uB9C1 2.cpp",
-              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\02_11727_2\u00D7n \uD0C0\uC77C\uB9C1 2.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBQAAAAAAAAA",
+              "Title": "03_9095_1, 2, 3 \uB354\uD558\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\03_9095_1, 2, 3 \uB354\uD558\uAE30.cpp",
+              "RelativeDocumentMoniker": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\03_9095_1, 2, 3 \uB354\uD558\uAE30.cpp",
+              "ToolTip": "C:\\Users\\woochae\\Documents\\Study\\Problem-Solving\\Solution\\Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\03_9095_1, 2, 3 \uB354\uD558\uAE30.cpp",
+              "RelativeToolTip": "Solution\\Baekjoon_Online_Judge\\00. code.plus\\00_\uC54C\uACE0\uB9AC\uC998 \uAE30\uCD08\\03_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D 1\\00_\uB2E4\uC774\uB098\uBBF9 \uD504\uB85C\uADF8\uB798\uBC0D \uC18C\uAC1C\\03_9095_1, 2, 3 \uB354\uD558\uAE30.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-05T14:27:52.666Z",
+              "WhenOpened": "2024-11-05T14:54:24.845Z",
               "EditorCaption": ""
             }
           ]
