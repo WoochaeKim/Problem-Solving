@@ -76,6 +76,12 @@
     <Filter Include="00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고">
       <UniqueIdentifier>{247bc71b-bf8e-4613-a827-a9cdd890fc60}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\03. 다이나믹 프로그래밍 1">
+      <UniqueIdentifier>{a340f668-c6aa-42fe-9707-3875bb9ec787}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1">
+      <UniqueIdentifier>{ae920aa3-1f05-44f7-8f7c-ed63e697237a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\00_2557_Hello World.cpp">
@@ -359,6 +365,9 @@
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\참고\03_11653_소인수분해.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\00_1463_1로 만들기.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
