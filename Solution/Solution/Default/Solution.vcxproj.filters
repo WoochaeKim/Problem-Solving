@@ -309,63 +309,6 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\01_자료구조 1\04_참고\08_11656_접미사 배열.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\00_10430_나머지.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\01_2609_최대공약수와 최소공배수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\02_1934_최소공배수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\03_1978_소수 찾기.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\04_1929_소수 구하기.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\05_6588_골드바흐의 추측.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\06_10872_팩토리얼.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\07_1676_팩토리얼 0의 개수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\수학 1\08_2004_조합 0의 개수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\연습\00_9613_GCD 합.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\연습\01_17087_숨바꼭질 6.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\연습\02_1373_2진수 8진수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\연습\03_1212_8진수 2진수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\연습\04_2089_-2진수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\연습\05_17103_골드바흐 파티션.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\참고\00_11005_진법 변환 2.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\참고\01_2745_진법 변환.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\참고\02_11576_Base Conversion.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\참고\03_11653_소인수분해.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
-    </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\00_1463_1로 만들기.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
     </ClCompile>
@@ -377,6 +320,66 @@
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\03_9095_1, 2, 3 더하기.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\04_11052_카드 구매하기.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\00_10430_나머지.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\01_2609_최대공약수와 최소공배수.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\02_1934_최소공배수.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\03_1978_소수 찾기.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\04_1929_소수 구하기.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\05_6588_골드바흐의 추측.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\06_10872_팩토리얼.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\07_1676_팩토리얼 0의 개수.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\08_2004_조합 0의 개수.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\01_연습\00_9613_GCD 합.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\01_연습\01_17087_숨바꼭질 6.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\01_연습\02_1373_2진수 8진수.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\01_연습\03_1212_8진수 2진수.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\01_연습\04_2089_-2진수.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\01_연습\05_17103_골드바흐 파티션.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\01. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\02_참고\00_11005_진법 변환 2.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\02_참고\01_2745_진법 변환.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\02_참고\02_11576_Base Conversion.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\02_참고\03_11653_소인수분해.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
