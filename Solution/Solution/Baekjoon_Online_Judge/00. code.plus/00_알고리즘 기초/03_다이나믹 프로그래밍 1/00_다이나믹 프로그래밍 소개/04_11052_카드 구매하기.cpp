@@ -11,14 +11,6 @@ int MaxCost(int _iNumCardPack)
 	if (0 > _iNumCardPack)
 		return 0;
 
-	// 테스트 123
-	// 테스트 123
-	// 테스트 123
-	// 테스트 123
-	// 테스트 123
-	// 테스트 123
-	// 테스트 123
-
 	if (0 < g_vecMemo[_iNumCardPack])
 		return g_vecMemo[_iNumCardPack];
 
