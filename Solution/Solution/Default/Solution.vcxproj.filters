@@ -84,24 +84,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\00_2557_Hello World.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\01_10699_오늘 날짜.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\02_7287_등록.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\03_10171_고양이.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\04_10172_개.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\05_25083_새싹.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
-    </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\00_1001_A-B.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
     </ClCompile>
@@ -386,6 +368,9 @@
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\06_15990_1, 2, 3 더하기 5.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\00_2557_Hello World.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
