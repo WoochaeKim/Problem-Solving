@@ -84,24 +84,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\00_11654_아스키 코드.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\01_2744_대소문자 바꾸기.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\02_2754_학점계산.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\03_27866_문자와 문자열.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\04_11718_그대로 출력하기.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\05_9086_문자열.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
-    </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수\00_15964_이상한 기호.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수</Filter>
     </ClCompile>
@@ -386,6 +368,9 @@
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열\03_2738_행렬 덧셈.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\00_11654_아스키 코드.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
