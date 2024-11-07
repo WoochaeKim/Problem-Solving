@@ -375,5 +375,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\01_2744_대소문자 바꾸기.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\02_2754_학점계산.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
