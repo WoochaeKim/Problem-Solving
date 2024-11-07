@@ -319,23 +319,11 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\04. 빠른 입출력\00_15552_빠른 A+B.cpp" />
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열\00_10871_X보다 작은 수.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\04. 빠른 입출력\00_15552_빠른 A+B.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열\01_10807_개수 세기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열\02_5597_과제 안 내신 분.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열\03_2738_행렬 덧셈.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열\00_10871_X보다 작은 수.cpp" />
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\00_11654_아스키 코드.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
