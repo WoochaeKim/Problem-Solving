@@ -84,9 +84,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\04. 빠른 입출력\00_15552_빠른 A+B.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\04. 빠른 입출력</Filter>
-    </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열\00_10871_X보다 작은 수.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\05. 배열</Filter>
     </ClCompile>
@@ -386,6 +383,9 @@
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\03. 반복\02_2438_별 찍기 - 1.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\03. 반복</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\04. 빠른 입출력\00_15552_빠른 A+B.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\04. 빠른 입출력</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
