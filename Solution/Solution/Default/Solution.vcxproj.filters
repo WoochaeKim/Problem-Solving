@@ -384,5 +384,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\03_1008_A_div_B.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\04_11382_꼬마 정민.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
