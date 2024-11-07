@@ -84,21 +84,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\00_1001_A-B.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\01_10998_A×B.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\02_10869_사칙연산.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\03_1008.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\04_11382_꼬마 정민.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
-    </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\02. 조건\00_1330_두 수 비교하기.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\02. 조건</Filter>
     </ClCompile>
@@ -386,6 +371,9 @@
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\05_25083_새싹.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산\00_1001_A-B.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\01. 입력과 계산</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
