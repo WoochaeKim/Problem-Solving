@@ -84,12 +84,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수\00_15964_이상한 기호.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수\01_2475_검증수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수</Filter>
-    </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\00_2439_별 찍기 - 2.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
     </ClCompile>
@@ -386,6 +380,9 @@
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열\05_9086_문자열.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\06. 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수\00_15964_이상한 기호.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\07. 함수</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
