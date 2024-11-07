@@ -354,5 +354,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\01_11720_숫자의 합.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\02_31403_A+B-C.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
