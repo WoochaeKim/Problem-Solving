@@ -19,6 +19,7 @@ int main()
 			strResult = "ascending";
 			iOffset = 1;
 			break;
+
 		case 8:
 			strResult = "descending";
 			iOffset = -1;
