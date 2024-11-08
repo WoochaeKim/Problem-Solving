@@ -366,5 +366,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\05_10250_ACM 호텔.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1\06_10818_최소, 최대.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
