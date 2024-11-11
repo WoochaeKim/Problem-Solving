@@ -402,5 +402,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\11_1912_연속합.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\12_1699_제곱수의 합.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
