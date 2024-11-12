@@ -79,8 +79,11 @@
     <Filter Include="00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1">
       <UniqueIdentifier>{a340f668-c6aa-42fe-9707-3875bb9ec787}</UniqueIdentifier>
     </Filter>
-    <Filter Include="00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1">
+    <Filter Include="00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1">
       <UniqueIdentifier>{ae920aa3-1f05-44f7-8f7c-ed63e697237a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\01. 연습">
+      <UniqueIdentifier>{89cf6e74-51d9-4094-9a50-edd3fdee7e78}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -175,19 +178,19 @@
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\01. 자료구조 1\04. 참고</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\00_1463_1로 만들기.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\01_11726_2×n 타일링.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\02_11727_2×n 타일링 2.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\03_9095_1, 2, 3 더하기.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\04_11052_카드 구매하기.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\02_수학 1\00_수학 1\00_10430_나머지.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\00. 수학 1</Filter>
@@ -247,10 +250,10 @@
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\02. 수학 1\02. 참고</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\05_16194_카드 구매하기 2.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\06_15990_1, 2, 3 더하기 5.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력\00_2557_Hello World.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\00. 새싹\00. 출력</Filter>
@@ -388,28 +391,31 @@
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\01. CLASS 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\07_10844_쉬운 계단 수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\08_2193_이친수.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\09_11053_가장 긴 증가하는 부분 수열.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\10_14002_가장 긴 증가하는 부분 수열 4.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\11_1912_연속합.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\12_1699_제곱수의 합.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\13_2225_합분해.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\00. 다이나믹 프로그래밍 1</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\00_다이나믹 프로그래밍 소개\14_15988_1, 2, 3 더하기 3.cpp">
-      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\다이나믹 프로그래밍 1</Filter>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\01_연습\00_15988_1, 2, 3 더하기 3.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\01. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\01_연습\01_1149_RGB거리.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\01. 연습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
