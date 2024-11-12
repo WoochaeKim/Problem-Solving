@@ -12,7 +12,7 @@ int main()
 
 	enum COLOR_TYPE { RED, GREEN, BLUE, END };
 	array<int, COLOR_TYPE::END> arrCost{};
-	int iNumHouse{};
+	int iNumHouse{}, iIdxPrevHouse{};
 	cin >> iNumHouse;
 
 	vector<vector<int>> vecTabul(iNumHouse + 1, vector<int>(COLOR_TYPE::END));
@@ -23,14 +23,16 @@ int main()
 	{
 		cin >> arrCost[RED] >> arrCost[GREEN] >> arrCost[BLUE];
 
+		iIdxPrevHouse = iCntHouse - 1;
+
 		vecTabul[iCntHouse][RED] =
-			min(vecTabul[iCntHouse - 1][GREEN], vecTabul[iCntHouse - 1][BLUE]) + arrCost[RED];
+			min(vecTabul[iIdxPrevHouse][GREEN], vecTabul[iIdxPrevHouse][BLUE]) + arrCost[RED];
 
 		vecTabul[iCntHouse][GREEN] =
-			min(vecTabul[iCntHouse - 1][RED], vecTabul[iCntHouse - 1][BLUE]) + arrCost[GREEN];
+			min(vecTabul[iIdxPrevHouse][RED], vecTabul[iIdxPrevHouse][BLUE]) + arrCost[GREEN];
 
 		vecTabul[iCntHouse][BLUE] =
-			min(vecTabul[iCntHouse - 1][RED], vecTabul[iCntHouse - 1][GREEN]) + arrCost[BLUE];
+			min(vecTabul[iIdxPrevHouse][RED], vecTabul[iIdxPrevHouse][GREEN]) + arrCost[BLUE];
 	}
 	
 	cout << min(min(vecTabul[iNumHouse][RED], vecTabul[iNumHouse][GREEN]), vecTabul[iNumHouse][BLUE]);
