@@ -447,5 +447,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\05_15829_Hashing.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\05_2156_포도주 시식.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\01. 연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
