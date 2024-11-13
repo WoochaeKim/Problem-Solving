@@ -85,6 +85,9 @@
     <Filter Include="00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\01. 연습">
       <UniqueIdentifier>{89cf6e74-51d9-4094-9a50-edd3fdee7e78}</UniqueIdentifier>
     </Filter>
+    <Filter Include="00. Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2">
+      <UniqueIdentifier>{ebf8d00f-0ab9-462b-87f3-4091a78b9c46}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\00_알고리즘 시작\00_2557_Hello World.cpp">
@@ -425,6 +428,9 @@
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\01_연습\04_9465_스티커.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\01. 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\00_4153_직각삼각형.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
