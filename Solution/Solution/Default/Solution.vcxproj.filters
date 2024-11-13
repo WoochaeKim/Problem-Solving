@@ -438,5 +438,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\02_2231_분해합.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\03_2292_벌집.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
