@@ -11,10 +11,8 @@ int main()
 	cout.tie(nullptr);
 
 	enum TYPE_SIDE { BASE, HIGHT, HYPOT, END };
-
 	array<int, TYPE_SIDE::END> arrSides{};
 	
-
 	while (true)
 	{
 		int iSumSide{};
