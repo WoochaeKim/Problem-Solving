@@ -495,7 +495,11 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\05_2156_포도주 시식.cpp" />
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\05_2156_포도주 시식.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\06_1932_정수 삼각형.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
