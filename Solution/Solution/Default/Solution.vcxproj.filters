@@ -459,5 +459,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\01_연습\08_11722_가장 긴 감소하는 부분 수열.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\01. 연습</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\01_연습\09_11054_가장 긴 바이토닉 부분 수열.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\01. 연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
