@@ -513,5 +513,8 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\19_10773_제로.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2</Filter>
     </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2\20_11866_요세푸스 문제 0.cpp">
+      <Filter>00. Baekjoon_Online_Judge\01. solved.ac\02. CLASS 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
