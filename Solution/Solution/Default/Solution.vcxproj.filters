@@ -537,10 +537,13 @@
     <ClCompile Include="..\Baekjoon_Online_Judge\01. solved.ac\03. CLASS 3\02_1003_피보나치 함수.cpp">
       <Filter>00. Baekjoon_Online_Judge\01. solved.ac\03. CLASS 3</Filter>
     </ClCompile>
-    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\02_도전\00_1309_동물원 %28Ver_Hard%29.cpp">
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\02_도전\00_1309_동물원%28Ver_Hard%29.cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\02. 도전</Filter>
     </ClCompile>
     <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\02_도전\01_17404_RGB거리 2.cpp">
+      <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\02. 도전</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Baekjoon_Online_Judge\00. code.plus\00_알고리즘 기초\03_다이나믹 프로그래밍 1\02_도전\28_2225_합분해(Ver_Hard).cpp">
       <Filter>00. Baekjoon_Online_Judge\00. code.plus\00. 알고리즘 기초\03. 다이나믹 프로그래밍 1\02. 도전</Filter>
     </ClCompile>
   </ItemGroup>
